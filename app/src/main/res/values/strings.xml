@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Laba8</string>
+    <string name="View">Личный Кабинет</string>
+    <string name="Order">Текущие заказы</string>
+    <string name="LC1">Личный счёт</string>
+    <string name="LC2">Личные данные</string>
+    <string name="LC3">История заказов</string>
+    <string name="LC4">Профиль заказов</string>
+    <string name="LC5">Корзина</string>
+    <string name="LC6">Подписки</string>
+    <string name="LC7">Контакты</string>
+    <string name="LC8">Нет подписок</string>
+
+
+</resources>
